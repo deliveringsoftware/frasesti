@@ -4,9 +4,8 @@ Coleção de frases interessantes sobre TI.
 
 Manda o seu pull-request para incluir novas!
 
-```markdown
 - "Qualidade não é só o que o usuário vê, mas o que o nosso time vive", [Samanta Cicilia](https://twitter.com/samantacicilia) [Referência](https://twitter.com/samantacicilia/status/1308535133570506762)
-```
+
 ===
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
