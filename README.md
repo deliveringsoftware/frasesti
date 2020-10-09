@@ -1,6 +1,6 @@
 # Frases da TI
 
-##Coleção de frases interessantes sobre TI.
+## Coleção de frases interessantes sobre TI.
 
 Mande pull-request para incluir novas!
 
