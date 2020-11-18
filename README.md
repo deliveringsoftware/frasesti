@@ -4,6 +4,7 @@
 
 Mande pull-request para incluir novas!
 
+- Sem vigilância e trabalho constante, a tendência natural de qualquer projeto é o Waterfall", [Victor Hugo](https://twitter.com/victorhg)
 - "Qualidade não é só o que o usuário vê, mas o que o nosso time vive", [Samanta Cicilia](https://twitter.com/samantacicilia) [Referência](https://twitter.com/samantacicilia/status/1308535133570506762)
 - "Agility is not a set of practices, but a state of mind.",	Jon Kern
 - "A internet ignora os três conceitos básicos da Física: o tempo, a massa e o espaço.", Arno Penzias, Nobel de Física em 1978
